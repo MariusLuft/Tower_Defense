@@ -1,0 +1,8 @@
+To do for the tower defense Project:
+
+
+Problems to fix:
+- Tower spawns at start
+- Respawn stops after first Castle hit
+- Castle doesnt loose health
+- Towers dont shoot
